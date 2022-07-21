@@ -11410,6 +11410,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
+  /* Background header image from https://www.flickr.com/photos/pedrorocha/3627562740/sizes/o/ */
   background-image: url("../assets/img/urban_access_header_bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
