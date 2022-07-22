@@ -57,3 +57,10 @@ and https://codepen.io/dcode-software/pen/dLVwOY */
 .content-table a{
   color:#212529;
 }
+.content-table a:link{
+  color:#212529;
+}
+
+a:link{
+  color:#0d6efd;
+}
