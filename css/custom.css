@@ -32,6 +32,16 @@
   background-color: rgb(252,252,252)
 }
 
+.schedule-timing{
+  font-size: smaller;
+}
+
+.img-keynote{
+  float: left;
+  height: 500px;
+  margin-right: 20px;
+}
+
 /* Table styling from: https://www.youtube.com/watch?v=biI9OFH6Nmg&t=584s
 and https://codepen.io/dcode-software/pen/dLVwOY */
 .content-table {
