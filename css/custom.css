@@ -16,6 +16,10 @@
   margin-top: 25px;
 }
 
+.paper-title a:link{
+  color: black;
+}
+
 .paper-block{
   padding: 15px;
 }
