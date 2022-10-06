@@ -20,6 +20,10 @@
   color: black;
 }
 
+.paper-title a:visited {
+  color: black;
+}
+
 .paper-block{
   padding: 15px;
 }
